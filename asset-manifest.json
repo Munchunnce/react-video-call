@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-video-call/static/css/main.b23ad158.css",
+    "main.js": "/react-video-call/static/js/main.0d88cdd8.js",
+    "static/js/787.85079b35.chunk.js": "/react-video-call/static/js/787.85079b35.chunk.js",
+    "index.html": "/react-video-call/index.html",
+    "main.b23ad158.css.map": "/react-video-call/static/css/main.b23ad158.css.map",
+    "main.0d88cdd8.js.map": "/react-video-call/static/js/main.0d88cdd8.js.map",
+    "787.85079b35.chunk.js.map": "/react-video-call/static/js/787.85079b35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23ad158.css",
+    "static/js/main.0d88cdd8.js"
+  ]
+}
